@@ -1,0 +1,37 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 1 Test Results File
+ * -------------------------------------
+ * @author name, id, email
+ *
+ * @version 2025-01-05
+ *
+ * -------------------------------------
+ */
+Results:
+Program Parameters:
+
+  argc: 3
+
+  argv[0] = "./main"
+  argv[1] = "hello"
+  argv[2] = "world"
+
+Program Parameters:
+
+  argc: 2
+
+  argv[0] = "./main"
+  argv[1] = "hello"
+            
+Program Parameters:
+
+  No user parameters specified.
+
+  Argument 0 is a system default, and is always passed to the main program.
+  Argument 0 is the path and name of the executable file.
+
+  argc: 1
+  argv[0] = "./main"
+
